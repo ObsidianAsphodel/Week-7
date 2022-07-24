@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    font-size: large;
+    background-color: rgba(99, 29, 111, 0.563);
+}
+
+body h1{
+    font-size: 100px;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+body h2{
+    font-size: 80px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+body div{
+    font-size: 70px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left: 60px;
+    padding-right: 180px;
+    background-color: rgba(77, 17, 87, 0.563);
+}
+form{
+    background-color: rgba(77, 17, 87, 0.563);
+}
+p{
+    text-align: left;
+    font-size: large;
+    background-color: rgba(rgb(132, 84, 155), green, blue, alpha);
+}
+table{
+    background-color: gray;
+    border: 5px solid black;
+}
+table th{
+    background-color: rgba(rgba(189, 189, 189, 0.864), green, blue, alpha)
+}
